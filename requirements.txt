@@ -1,0 +1,17 @@
+# Database Modeling & Development
+MySQL Workbench >= 8.0.0
+MySQL Server >= 8.0.0
+
+# Business Intelligence
+QlikView Personal Edition >= 12.5
+
+# Synthetic Data Generation
+Python >= 3.8
+Faker >= 19.3.1
+
+
+# Notes:
+# - MySQL Workbench was used for ER modeling and forward engineering the transactional schema.
+# - Dimensional modeling (star schema) was designed based on the transactional database using standard data warehousing principles.
+# - QlikView was used to build a multi-page BI dashboard for business insights.
+# - Python + Faker was used to simulate realistic business data (clients, freelancers, projects, transactions, reviews).

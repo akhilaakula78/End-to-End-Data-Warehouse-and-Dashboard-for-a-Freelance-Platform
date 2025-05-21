@@ -78,6 +78,16 @@ All fields from the star schema were loaded into QlikView via custom scripts. Ci
 **Dashboard Visuals & Model:** `docs/QlikView_Dashboard.pdf`  
 **QlikView File & Screenshots:** `bi_dashboard_qlikview/`
 
+![Introduction](bi_dashboard_qlikview/Screenshots/Introduction.png)
+
+![Client Insights](bi_dashboard_qlikview/Screenshots/Client%20Insights.png)
+
+![Freelancer Insights](bi_dashboard_qlikview/Screenshots/Freelancer%20Insights.png)
+
+![Project Insights](bi_dashboard_qlikview/Screenshots/Project%20Insights.png)
+
+![Dashboard](bi_dashboard_qlikview/Screenshots/Dashboard.png)
+
 ---
 
 ## Data Simulation (Realism via Faker)
